@@ -1,0 +1,21 @@
+PODS:
+  - TYHTestUtils (0.1.0)
+
+DEPENDENCIES:
+  - TYHTestUtils (from `https://github.com/pencilCool/TYHTestUtils.git`)
+
+EXTERNAL SOURCES:
+  TYHTestUtils:
+    :git: https://github.com/pencilCool/TYHTestUtils.git
+
+CHECKOUT OPTIONS:
+  TYHTestUtils:
+    :commit: 5df14a754ac39a1dfdcf238dc744c54518e5bb1f
+    :git: https://github.com/pencilCool/TYHTestUtils.git
+
+SPEC CHECKSUMS:
+  TYHTestUtils: 91d7f5dbe500de12f8a5751fa998e6827ac0f480
+
+PODFILE CHECKSUM: 2076f99f25085e5f1e60bf944de53dd6a29372c9
+
+COCOAPODS: 1.12.1

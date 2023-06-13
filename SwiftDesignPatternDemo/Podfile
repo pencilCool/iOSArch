@@ -1,0 +1,9 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'SwiftDesignPatternDemo' do
+  use_frameworks!
+ pod 'TYHTestUtils',:git=>'https://github.com/pencilCool/TYHTestUtils.git'
+  # Pods for SwiftDesignPatternDemo
+
+end
